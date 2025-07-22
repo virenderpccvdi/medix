@@ -21,7 +21,7 @@ module.exports = {
       },
     ],
     belowNavMenu: null,
-    footer: 'Powered by <a href="//demo.mediacms.io" title="mediacms.io" target="_blank">mediacms.io</a>',
+    footer: 'Powered by <a href="//pccvdi.com" title="Medix" target="_blank">PCCVDI Solutions </a>',
   },
   uploader: {
     belowUploadArea: '',
